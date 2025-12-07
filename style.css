@@ -116,6 +116,16 @@ body {
     height: 1200px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
 
 .comments-section {
     max-height: 400px;
